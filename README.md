@@ -5,7 +5,7 @@
 [Задание](https://docs.google.com/document/d/1dYI6N9vXSGMaDh6D2GC9MecRH-Q9DIPvbsoyrHAdEuY/edit?tab=t.0#heading=h.k2hmrhjqy6kz)
 
 ## Решение
-[Код](./Program.cs)
+[Код]([./Program.cs](http://github.com/miyaivv/Domashno-Mia/blob/main/Domasno/Domasno/Program.cs))
 
 ## Рефлексия
 
