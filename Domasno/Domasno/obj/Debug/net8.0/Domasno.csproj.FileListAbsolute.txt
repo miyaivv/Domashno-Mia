@@ -1,0 +1,15 @@
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\bin\Debug\net8.0\Domasno.exe
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\bin\Debug\net8.0\Domasno.deps.json
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\bin\Debug\net8.0\Domasno.runtimeconfig.json
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\bin\Debug\net8.0\Domasno.dll
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\bin\Debug\net8.0\Domasno.pdb
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\Domasno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\Domasno.AssemblyInfoInputs.cache
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\Domasno.AssemblyInfo.cs
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\Domasno.csproj.CoreCompileInputs.cache
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\Domasno.sourcelink.json
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\Domasno.dll
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\refint\Domasno.dll
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\Domasno.pdb
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\Domasno.genruntimeconfig.cache
+C:\Users\Mia\Documents\GitHub\Domashno-Mia\Domasno\Domasno\obj\Debug\net8.0\ref\Domasno.dll
